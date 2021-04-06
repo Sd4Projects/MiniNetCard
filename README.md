@@ -12,3 +12,5 @@ Finished Board Top View
 And with 3.3V PoE card
 
 ![alt text](https://github.com/Sd4Projects/MiniNetCard/blob/main/NetWithPoe.jpg?raw=true "NetWithPoe")
+
+Bare board can be ordered from OSH Park. https://oshpark.com/shared_projects/ZCvR4dbD with project name MiniNetCard_v4b.kicad_pcb or use source files and order from whoever you want.
